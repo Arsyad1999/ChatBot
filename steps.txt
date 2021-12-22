@@ -1,0 +1,8 @@
+Here are the steps to create a chatbot in Flask from scratch:
+
+1.Import and load the data file
+2.Preprocess data
+3.split the data into training and test
+4.Build the ANN model using keras
+5.Predict the outcomes
+6.Deploy the model in the Flask app
