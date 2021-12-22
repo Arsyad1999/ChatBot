@@ -1,3 +1,4 @@
+https://buffml.com/web-based-chatbot-using-flask-api/
 
 Sebelum dijalankan, pastikan dulu menginstall : 
 pip install tensorflow 
